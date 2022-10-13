@@ -11,4 +11,4 @@ Set the conditions for minimum and maximum quantity ordered per category for eve
 * All the conditions for minimum or maximum quantity should be met with for multiple category products.
 * Cost effective shipping and packaging
 
-For more information, visit : [https://meetanshi.com/magento-2-limit-quantity-per-category.html](https://meetanshi.com/magento-2-limit-quantity-per-category.html)
+For more information, visit : ***[https://meetanshi.com/magento-2-limit-quantity-per-category.html](https://meetanshi.com/magento-2-limit-quantity-per-category.html)***
